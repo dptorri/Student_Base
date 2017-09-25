@@ -1,4 +1,10 @@
-# Week 3 challenge
+# Week 3 challenge - PHP Database
+Progress 30% - on development
+##Task:
+Create a PHP website consisting of at least 3 pages:
+A form to create a new data item.
+A list of data items.
+A detail of a data item.
 
 ## Contents
 The `data` folder that will hold all the saved data.
