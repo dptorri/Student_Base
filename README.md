@@ -1,6 +1,7 @@
 # Week 3 challenge - PHP Database
 Progress 30% - on development
-##Task:
+
+## Task:
 Create a PHP website consisting of at least 3 pages:
 A form to create a new data item.
 A list of data items.
