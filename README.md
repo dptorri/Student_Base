@@ -1,4 +1,5 @@
-# Week 3 challenge - PHP Database
+# Student_Base - PHP Database
+Week 3 challenge
 Progress 30% - on development
 
 ## Task:
